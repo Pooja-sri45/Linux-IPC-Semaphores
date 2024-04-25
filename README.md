@@ -112,13 +112,16 @@ if(NUM_LOOPS>=10)    {
 
 ## OUTPUT
 $ ./sem.o 
+![image](https://github.com/Pooja-sri45/Linux-IPC-Semaphores/assets/147081893/92199394-6f9c-4b04-8367-50b09c733a5b)
 
-![image](https://github.com/Pooja-sri45/Linux-IPC-Semaphores/assets/147081893/498c80ad-32b9-47dc-95ea-e01c596565e7)
+
+
 
 
 
 $ ipcs
-![Screenshot 2024-04-25 032844](https://github.com/Pooja-sri45/Linux-IPC-Semaphores/assets/147081893/7c2f5aec-1410-4eb1-b02a-e23e81642e6e)
+![image](https://github.com/Pooja-sri45/Linux-IPC-Semaphores/assets/147081893/b03e273e-e238-4438-9599-2fb862d3e88e)
+
 
 
 
